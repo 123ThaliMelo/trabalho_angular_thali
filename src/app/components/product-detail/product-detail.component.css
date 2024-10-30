@@ -1,0 +1,30 @@
+.product-card {
+  border: 1px solid #ddd;
+  padding: 1rem;
+  margin: 1rem;
+  border-radius: 5px;
+  text-align: center;
+  width: 200px;
+}
+
+.product-card img {
+  width: 100%;
+  height: auto;
+  margin-bottom: 1rem;
+}
+
+.product-card button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+}
+.card {
+    display: flex;              /* Usa Flexbox para o conteúdo do card */
+    flex-direction: column;     /* Organiza o conteúdo verticalmente */
+    align-items: center;        /* Centraliza os itens dentro do card */
+    padding: 16px;             /* Espaçamento interno */
+    background-color: #fff;    /* Cor de fundo do card */
+  }
+  

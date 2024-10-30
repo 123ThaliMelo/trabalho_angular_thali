@@ -1,1 +1,12 @@
-/* You can add global styles to this file, and also import other style files */
+.product-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 16px;
+    padding: 16px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    max-width: 220px;
+    text-align: center;
+  }
+  
